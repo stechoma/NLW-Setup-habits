@@ -21,8 +21,7 @@ header {
 
     position: fixed;
     width: 100%;
-
-
+    background-color: #09090A;
 }
 
 button {
@@ -47,7 +46,6 @@ button {
 
     padding: 182px 48px 48px;
     width: fit-content;
-
 }
 
 .habits {
@@ -59,8 +57,6 @@ button {
 }
 
 .habit {
-    border: 1px;
-
     width: 64px;
     height: 64px;
 
